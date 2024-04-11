@@ -1,0 +1,7 @@
+EN:
+72059	Book of the Leader+	Provided the leader of a group has this book on them, all their group members will receive 100% more experience points for 2 hours.
+72060	Book of the Leader+	Provided the leader of a group has this book on them, all their group members will receive 100% more experience points for 3 hours.
+
+TR:
+72059	Liderin kitabý+	Bir grubun lideri bu kitabý üzerinde taþýdýðý sürece tüm grup üyeleri 2 saat boyunca %100 daha fazla tecrübe puaný toplar.
+72060	Liderin kitabý+	Bir grubun lideri bu kitabý üzerinde taþýdýðý sürece tüm grup üyeleri 3 saat boyunca %100 daha fazla tecrübe puaný toplar.

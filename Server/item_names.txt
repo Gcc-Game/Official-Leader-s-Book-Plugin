@@ -1,0 +1,7 @@
+EN:
+72059	Book of the Leader+
+72060	Book of the Leader+
+
+TR:
+72059	Liderin kitabý+
+72060	Liderin kitabý+
